@@ -1,0 +1,1 @@
+import{_ as t,o,c as s,a as e}from"./index-9fbc30b7.js";const _={},n={class:"about"},c=e("h1",null,"Change the text on the page",-1),a=e("div",{class:"text-green-400"},"A new div to add to the page",-1),d=[c,a];function i(r,h){return o(),s("div",n,d)}const u=t(_,[["render",i]]);export{u as default};
